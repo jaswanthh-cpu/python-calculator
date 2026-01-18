@@ -1,2 +1,13 @@
-# python-calculator
-Very easy way to calculate the give data using python code in a simple way
+# Python Calculator
+
+A simple command-line calculator built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to Run
+```bash
+python calculator.py
